@@ -21,6 +21,12 @@
     "import"
   ],
   "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
   "type": "module",
   "bin": {
     "sonic": "./sonic/index.js"
