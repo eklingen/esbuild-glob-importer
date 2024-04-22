@@ -1,6 +1,6 @@
 {
   "name": "@eklingen/esbuild-glob-importer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESBuild plugin to add globbing support to import statements.",
   "repository": {
     "type": "git",
