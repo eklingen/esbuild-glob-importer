@@ -1,3 +1,6 @@
+**NOTE:** This package is DEPRECATED. Use the esbuildPlugin from https://github.com/eklingen/glob-importers/ instead!
+
+-------
 
 # esbuild-glob-importer
 
